@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1 group-title="24/7 Kids/Anime" group-logo="https://i.postimg.cc/4yKdtFV5/IMG-20260904-131327-550.jpg" tvg-logo="https://i.postimg.cc/tT6phDm6/Hunter-Hunter-(2011).png",Hunter x Hunter 24/7 (English Audio)
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88884643/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=tclhunterxhunter&ads.channelId=88884643&ads.channelName=hunterxhunter_us&ads.csid=tcl2_us_tclhunterxhunter_ssai&ads.genre=Anime&ads.xumo_channelId=88884643&ads.xumo_channelName=TCLAnime&ads.xumo_contentId=4389&ads.xumo_contentName=TCLAnime&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=4389&ads.xumo_providerName=TCLAnime&ads.xumo_streamId=88884643&declaredCC1Language=en&includeAssetTags=true
 #EXTINF:-1 group-title="24/7 Kids/Anime" group-logo="https://i.postimg.cc/4yKdtFV5/IMG-20260904-131327-550.jpg" tvg-logo="https://i.postimg.cc/tRz88LPJ/naruto-amazon-1.jpg",Naruto 24/7 (English Audio)
@@ -1167,8 +1166,6 @@ https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 https://colorsportscreen.com/freetv/stream.m3u8?id=8627ddec5bfc
 #EXTINF:-1 group-title="Indian Digital" group-logo="https://i.postimg.cc/4yKdtFV5/IMG-20260904-131327-550.jpg" tvg-logo="https://i.imgur.com/v5urG30.png",Pulari TV
 https://mumbai-edge.smartplaytv.in/PulariTV/index.m3u8
-#EXTINF:-1 group-title="Indian Digital" group-logo="https://i.postimg.cc/4yKdtFV5/IMG-20260904-131327-550.jpg" tvg-logo="https://i.postimg.cc/PxJ2Cfch/452997-removebg-preview.png",Silver Sat Media
-https://sanplayout.xyz/live2/silversatmedia/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Indian Digital" group-logo="https://i.postimg.cc/4yKdtFV5/IMG-20260904-131327-550.jpg" tvg-logo="https://i.postimg.cc/CKb3dGLj/253171.png",Siripoli TV
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #EXTINF:-1 group-title="Indian Digital" group-logo="https://i.postimg.cc/4yKdtFV5/IMG-20260904-131327-550.jpg" tvg-logo="https://i.postimg.cc/dt2pP3Ky/452999-removebg-preview.png",SSS 4K TV
@@ -1183,10 +1180,6 @@ https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
 https://streams2.sofast.tv/ptnr-khabriya/title-THALAA-TV-TAM_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c9d5c8a0-8c52-47bc-954d-e64a11314de2/manifest.m3u8
 #EXTINF:-1 group-title="Indian Digital" group-logo="https://i.postimg.cc/4yKdtFV5/IMG-20260904-131327-550.jpg" tvg-logo="https://i.postimg.cc/Dz4rJHG9/460736.png",Thirai TV
 https://view.apserver.in/tmp_hls2/thiraitv/index.m3u8
-#EXTINF:-1 group-title="Indian Digital" group-logo="https://i.postimg.cc/4yKdtFV5/IMG-20260904-131327-550.jpg" tvg-logo="https://i.postimg.cc/dQk12ncN/438712.png",V Tamil
-https://hlsstream.olidigital.in/vtv/vtv/index.m3u8
-#EXTINF:-1 group-title="Indian Digital" group-logo="https://i.postimg.cc/4yKdtFV5/IMG-20260904-131327-550.jpg"  tvg-logo="https://i.postimg.cc/h4Tn4YBf/438716.png",V Tamil HD
-https://app.ashokadigital.net/app/89c09acf/index.m3u8
 #EXTINF:-1 group-title="Indian Digital" group-logo="https://i.postimg.cc/4yKdtFV5/IMG-20260904-131327-550.jpg" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/1b9e425af2f6a04da031c75db5f82ca1.png",Vaanavil TV
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 #EXTINF:-1 group-title="Indian Exclusive TV" group-logo="https://i.postimg.cc/4yKdtFV5/IMG-20260904-131327-550.jpg" tvg-logo="https://i.postimg.cc/k4Mjy5XQ/490003.png",B4U MOVIES
@@ -1536,12 +1529,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=132152&uid=10223&deviceSn=84F4AB37DF6
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/manifest.mpd
 #EXTINF:-1 tvg-id="BahrainQuran.bh@SD" tvg-logo="https://i.postimg.cc/1zHdTKk7/365190.png" group-title="Middle East | Bahrain" group-logo="https://i.postimg.cc/4yKdtFV5/IMG-20260904-131327-550.jpg",Bahrain Quran
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/manifest.mpd
-#EXTINF:-1 tvg-id="BahrainSports1.bh@SD" tvg-logo="https://i.postimg.cc/N0pNbjXb/365192.png" group-title="Middle East | Bahrain" group-logo="https://i.postimg.cc/4yKdtFV5/IMG-20260904-131327-550.jpg",Bahrain Sports 1
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/manifest.mpd
 #EXTINF:-1 tvg-id="BahrainSports2.bh@SD" tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="Middle East | Bahrain" group-logo="https://i.postimg.cc/4yKdtFV5/IMG-20260904-131327-550.jpg",Bahrain Sports 2
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/manifest.mpd
-#EXTINF:-1 tvg-id="BahrainTV.bh@SD" tvg-logo="https://i.postimg.cc/8chXRBmr/365195.png" group-title="Middle East | Bahrain" group-logo="https://i.postimg.cc/4yKdtFV5/IMG-20260904-131327-550.jpg",Bahrain TV
-https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/manifest.mpd
 #EXTINF:-1 tvg-id="Ch4TeenDocumentary.kw@SD" tvg-logo="https://i.imgur.com/pHpFGeg.png" group-title="Middle East | Kuwait" group-logo="https://i.postimg.cc/4yKdtFV5/IMG-20260904-131327-550.jpg" ,Ch4Teen Documentary
 https://ch14.tv/live/ch4teendoc/playlist.m3u8
 #EXTINF:-1 tvg-id="KTV1.kw@SD" tvg-logo="https://i.imgur.com/kG0d8Ay.png" group-title="Middle East | Kuwait" group-logo="https://i.postimg.cc/4yKdtFV5/IMG-20260904-131327-550.jpg" ,KTV 1
@@ -1582,8 +1571,6 @@ https://streaming.najah.edu:8443/hls/AlNajah.m3u8
 https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
 #EXTINF:-1 tvg-id="HolyQuranRadioNablus.ps@SD" tvg-logo="https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png" group-title="Middle East | Palestine" group-logo="https://i.postimg.cc/4yKdtFV5/IMG-20260904-131327-550.jpg" ,Holy Quran Radio Nablus
 http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
-#EXTINF:-1 tvg-id="PalestineToday.ps@SD" tvg-logo="https://i.imgur.com/BS8XXug.png" group-title="Middle East | Palestine" group-logo="https://i.postimg.cc/4yKdtFV5/IMG-20260904-131327-550.jpg" ,Palestine Today
-https://live.paltodaytv.com/paltv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioAlbaladTV.ps@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png" group-title="Middle East | Palestine" group-logo="https://i.postimg.cc/4yKdtFV5/IMG-20260904-131327-550.jpg" ,Radio Albalad TV
 http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
 #EXTINF:-1 tvg-id="RajeenTV.ps@SD" tvg-logo="https://i.imgur.com/6Cx22ya.png" group-title="Middle East | Palestine" group-logo="https://i.postimg.cc/4yKdtFV5/IMG-20260904-131327-550.jpg" ,Rajeen TV
@@ -2090,8 +2077,6 @@ https://abslive.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd
 http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-id="PolimerTV.in@SD" group-title="Pishow TV" group-logo="https://i.postimg.cc/4yKdtFV5/IMG-20260904-131327-550.jpg"  tvg-logo="https://dtil.tmsimg.com/assets/s143665_ld_h15_aa.png?lock=720x540",Polimer TV
 https://cdn.pishow.tv/ott/live/1241/master.m3u8
-#EXTINF:-1 group-title="Pishow TV" group-logo="https://i.postimg.cc/4yKdtFV5/IMG-20260904-131327-550.jpg" tvg-logo="https://i.postimg.cc/MKq2TM2W/359920.png",Vendhar TV
-https://cdn-3.pishow.tv/live/1271/master.m3u8
 #EXTINF:-1 group-title="Pluto TV | United States" group-logo="https://i.postimg.cc/4yKdtFV5/IMG-20260904-131327-550.jpg" tvg-logo="https://i.postimg.cc/N0KhW39v/313856.png",Nick Jr On Pluto TV
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 #EXTINF:-1 group-title="Pluto TV | United States" group-logo="https://i.postimg.cc/4yKdtFV5/IMG-20260904-131327-550.jpg" tvg-logo="https://i.postimg.cc/L5ZrnLkx/313854.png",Nickelodeon On Pluto TV
@@ -3452,8 +3437,6 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b8960
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeecinemaapachd.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 group-title="YuppTV" group-logo="https://i.postimg.cc/4yKdtFV5/IMG-20260904-131327-550.jpg" tvg-logo="https://i.postimg.cc/sgyPddft/1792623409961.jpg",Zee Telugu HD (B)
 https://da86m1sqpm3o0.cloudfront.net/260723/smil:zeetelugu.smil/index.m3u8
-#EXTINF:-1 group-title="YuppTV" group-logo="https://i.postimg.cc/4yKdtFV5/IMG-20260904-131327-550.jpg"  tvg-logo="https://i.postimg.cc/8z6jFvj1/404076.png",Zee TV HD (ZEE TV Mena)
-https://d1rc86nwwc9fag.cloudfront.net/260723/zeetvapachd_2500/chunks.m3u8
 #EXTINF:-1 tvg-id="9649000" tvg-name="Zee Thirai" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/cef53bf4b0cd4d79913452f6f645c13f/version/0" group-title="Z5 Digital" group-logo="https://i.postimg.cc/4yKdtFV5/IMG-20260904-131327-550.jpg",Zee Thirai
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=230c2d4c4d23411981bdb42a937844c0:30474cc97de95df6c7672874fd0e69cf
@@ -7057,8 +7040,6 @@ https://tv-stream-test.daydreamer-json.cc/stream/1668b5a43560598b385ccf33fd2d5f4
 https://tv-stream-test.daydreamer-json.cc/stream/407fd00ebd2a059c9cd1ea3fa7156097/master.m3u8
 #EXTINF:-1 group-title="Dhany | Kenya",Akili Kids! (720p)
 https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8
-#EXTINF:-1 group-title="Dhany | Kenya",Great Commission TV
-https://stream-server9-jupiter.muxlive.com/hls/gctvghana/index.m3u8
 #EXTINF:-1 group-title="Dhany | Kenya",Inooro TV
 https://live-onesignal.royalmedia.co.ke/live/T-MxRsFebq6zx7k2QFMbLw.m3u8
 #EXTINF:-1 group-title="Dhany | Kids",Duck tv
@@ -7114,8 +7095,6 @@ https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 group-title="Dhany | Korea",KBS WORLD
 https://freem3u.xyz/api/live/play.m3u8?vid=213
-#EXTINF:-1 group-title="Dhany | Local Channels",JEK TV
-http://27.124.81.245:1935/jektv/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Dhany | Local Channels",JTV (480p)
 http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Dhany | Local Channels",Kilisuci TV
@@ -7306,10 +7285,6 @@ https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
 https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Dhany | South Africa",Homebase TV (480p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_022/Stream/playlist.m3u8
-#EXTINF:-1 group-title="Dhany | South Africa",LN24SA (1080p)
-https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8
-#EXTINF:-1 group-title="Dhany | South Africa",LoveworldSAT (1080p)
-https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8
 #EXTINF:-1 group-title="Dhany | Spain",3Cat Cameres del temps (1080p)
 https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
 #EXTINF:-1 group-title="Dhany | Spain",3Cat Plats bruts (1080p)
@@ -7348,8 +7323,6 @@ https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 #EXTINF:-1 group-title="Dhany | Sports",SLOVAKIA: SPORT 2
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
-#EXTINF:-1 group-title="Dhany | Sports",SportsOne
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 group-title="Dhany | Sports",SportTV 2
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
 #EXTINF:-1 group-title="Dhany | Sports",SportTV 3
@@ -7747,22 +7720,8 @@ http://main.light-ott.net/play/live.php?mac=A0:BB:3E:02:3D:A8&stream=959389&exte
 http://main.light-ott.net/play/live.php?mac=A0:BB:3E:02:3D:A8&stream=959393&extension=ts&play_token=AtbMrdCiFY
 #EXTINF:-1 group-title="ELF | DETECTIVE CONAN",Crimson Love Letter (2017)
 https://hadeh.pitoyoabdi.workers.dev/Crimson%20Love%20Letter%20(2017).mp4
-#EXTINF:-1 group-title="ELF | DETECTIVE CONAN",Private Eye in the Distant Sea (2013)
-https://filmku.yesioktaviana.workers.dev/Private%20Eye%20in%20the%20Distant%20Sea%20(2013).mp4
 #EXTINF:-1 group-title="ELF | DETECTIVE CONAN",Quarter of Silence (2011)
 https://filmku.yesioktaviana.workers.dev/Quarter%20of%20Silence%20(2011).mp4
-#EXTINF:-1 group-title="ELF | DETECTIVE CONAN",Sunflowers of Inferno (2015)
-https://filmku.yesioktaviana.workers.dev/Sunflowers%20of%20Inferno%20(2015).mp4
-#EXTINF:-1 group-title="ELF | DETECTIVE CONAN",The Darkest Nightmare (2016)
-https://hadeh.pitoyoabdi.workers.dev/The%20Darkest%20Nightmare%20(2016).mp4
-#EXTINF:-1 group-title="ELF | DETECTIVE CONAN",The Eleventh Striker (2012)
-https://filmku.yesioktaviana.workers.dev/The%20Eleventh%20Striker%20(2012).mp4
-#EXTINF:-1 group-title="ELF | DETECTIVE CONAN",The Lost Ship in the Sky (2010)
-https://filmku.yesioktaviana.workers.dev/The%20Lost%20Ship%20in%20the%20Sky%20(2010).mp4
-#EXTINF:-1 group-title="ELF | DETECTIVE CONAN",The Sniper from Another Dimension (2014)
-https://filmku.yesioktaviana.workers.dev/The%20Sniper%20from%20Another%20Dimension%20(2014).mp4
-#EXTINF:-1 group-title="ELF | DETECTIVE CONAN",Zero the Enforcer (2018)
-https://hadeh.pitoyoabdi.workers.dev/Zero%20the%20Enforcer%20(2018).mp4
 #EXTINF:-1 group-title="ELF | FIGHT SPORTS",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 #EXTINF:-1 group-title="ELF | FIGHT SPORTS",FIGHT NETWORK
@@ -9007,8 +8966,6 @@ https://stream.carubantv.id/hls/0/stream.m3u8
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 #EXTINF:-1 group-title="TVMU | Local Channels",Jawapos TV Jakarta
 http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 group-title="TVMU | Local Channels",Jogja TV
-https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 group-title="TVMU | Local Channels",JTV Kediri
 http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 group-title="TVMU | Local Channels",Kilisuci TV Kediri
@@ -9123,8 +9080,6 @@ https://c1.siar.us:8800/live
 https://live.brayaradio.com/listen/brayaradio/stream
 #EXTINF:-1 group-title="TVMU | RADIO INDONESIA",ID | Campursari FM
 https://streaming.campursarifm.com/listen/campursari/campursari892
-#EXTINF:-1 group-title="TVMU | RADIO INDONESIA",ID | Classy FM
-http://stream.classyfm.co.id:1034/stream.mp3
 #EXTINF:-1 group-title="TVMU | RADIO INDONESIA",ID | CLASSY NetRadio
 https://streaming.classynetradio.com:8000/classySD
 #EXTINF:-1 group-title="TVMU | RADIO INDONESIA",ID | CNN Indonesia
